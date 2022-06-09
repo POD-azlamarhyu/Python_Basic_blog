@@ -12,3 +12,10 @@ print(alter_string)
 
 print("-----------------",end="\n\n")
 
+val_int = 15
+alt_bin = bin(val_int)
+alt_oct = oct(val_int)
+alt_hex = hex(val_int)
+print(alt_bin)
+print(alt_oct)
+print(alt_hex)
